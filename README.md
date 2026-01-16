@@ -283,32 +283,3 @@ customer-segmentation-rfm/
 \*\*Shirajum\*\*
 
 Senior Principal Officer | Data Analytics Enthusiast
-
-
-
----
-
-
-
-\## 🔗 Future Improvements
-
-
-
-\* Country-wise segmentation
-
-\* Customer lifetime value (CLV) modeling
-
-\* Power BI / Tableau dashboard version
-
-\* Automated data pipeline
-
-
-
----
-
-
-
-> This project emphasizes \*\*clarity, correctness, and business relevance\*\* — the same qualities expected in professional analytics roles.
-
-
-
